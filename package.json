@@ -37,6 +37,7 @@
 		"wrangler": "^4.45.3"
 	},
 	"dependencies": {
+		"@ai-sdk/anthropic": "^2.0.41",
 		"@ai-sdk/openai": "^2.0.59",
 		"@ai-sdk/react": "^2.0.86",
 		"@ai-sdk/ui-utils": "^1.2.11",
